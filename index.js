@@ -231,7 +231,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_35 = function() {
+(lib.CachedBmp_36 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
@@ -517,7 +517,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.Group_1();
 	this.instance_4.setTransform(20.7,224.15,0.353,0.353,0,0,0,54.2,18.2);
 
-	this.instance_5 = new lib.CachedBmp_35();
+	this.instance_5 = new lib.CachedBmp_36();
 	this.instance_5.setTransform(-0.15,131.65,0.5,0.5);
 
 	this.instance_6 = new lib.Group_4();
